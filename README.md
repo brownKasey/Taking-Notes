@@ -14,7 +14,7 @@ I wanted to create an application that can be used to write and save notes. I sa
 - [License](#license)
 
 ## Installation
-Go to the URL @ 
+Go to the URL @ https://warm-forest-20500-4b1756da1857.herokuapp.com/
 
 or
 
@@ -26,7 +26,7 @@ If you cloned the git repo, then you'll need to open the terminal and change the
 
 Or 
 
-Go to the URL @
+Go to the URL @ https://warm-forest-20500-4b1756da1857.herokuapp.com/
 
 Once the proper steps have been taken, you will be greeted with this web page.
 
