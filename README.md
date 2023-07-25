@@ -39,7 +39,7 @@ If you click into the 'Note Title' section you can enter a title for your note. 
 
 ![Saved-Note](./assets/Images/Note-Save.png)
 
-If you click the plus button, you'll be able to add another note. If you click on a previously saved note title you can view the old note title and body. If you the trash can you will delete whatever note is next to it. 
+If you click the plus button, you'll be able to add another note. If you click on a previously saved note title you can view the old note title and body. If you click the trash can you will delete whatever note is next to it. 
 
 ## Credits
 
